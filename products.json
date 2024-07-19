@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Producto",
+        "description": "producto 1",
+        "price": 100,
+        "stock": 10,
+        "image": "images/product1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Producto",
+        "description": "producto 2",
+        "price": 200,
+        "stock": 5,
+        "image": "images/product2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Producto",
+        "description": "producto 3",
+        "price": 300,
+        "stock": 0,
+        "image": "images/product3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Producto",
+        "description": "producto 4",
+        "price": 400,
+        "stock": 15,
+        "image": "images/product4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Producto",
+        "description": "producto 5",
+        "price": 500,
+        "stock": 20,
+        "image": "images/product5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Producto",
+        "description": "producto 6",
+        "price": 600,
+        "stock": 8,
+        "image": "images/product6.jpg"
+    }
+]

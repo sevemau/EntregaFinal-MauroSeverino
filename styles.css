@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.light-theme {
+    background-color: white;
+    color: black;
+}
+
+body.dark-theme {
+    background-color: black;
+    color: white;
+}
+
+#login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#products-container .card {
+    margin-bottom: 20px;
+}
+
+#cart-container .card {
+    margin-bottom: 10px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+
+.btn {
+    transition: all 0.3s ease;
+}
+
+
+.swal2-popup {
+    font-size: 1.2em;
+}
+
+
+#cart-container .card {
+    padding: 10px;
+}
+
+
+@media (max-width: 768px) {
+
+    .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    #products-container .card {
+        height: 350px;
+    }
+}
+
+.card {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #e3f2fd;
+}
+
+.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.light-theme .card {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+.light-theme .navbar {
+    background-color: #e3f2fd;
+    color: #000000;
+}
+
+.dark-theme {
+    background-color: #2e2e2e;
+    color: #ffffff;
+}
+
+.dark-theme .card {
+    background-color: #3a3a3a;
+    color: #ffffff;
+}
+
+.dark-theme .navbar {
+    background-color: #444444;
+    color: #ffffff;
+}
+
+
+.btn {
+    color: #ffffff;
+}
+
+
+.dark-theme .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.dark-theme .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.dark-theme .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+
+input[type="number"] {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.dark-theme input[type="number"] {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+#cart-container {
+    max-height: 680px;
+    overflow-y: auto;
+}
