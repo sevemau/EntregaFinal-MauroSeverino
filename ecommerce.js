@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!username) {
         window.location.href = 'index.html';
     } else {
-        document.getElementById('username-display').textContent = `Bienvenido a nuestra tienda, ${username}!`;
+        document.getElementById('username-display').textContent = `Bienvenido a Tienda Vapor, ${username}!`;
     }
 
     fetch('products.json')

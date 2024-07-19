@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "name": "Producto",
-        "description": "producto 1",
-        "price": 100,
-        "stock": 10,
-        "image": "images/product1.jpg"
+        "name": "NUEVO INGRESO",
+        "description": "Líquido BLVK Salt Nic Cuban Cigar 30ml",
+        "price": 12000,
+        "stock": 50,
+        "image": "image/imagen1.jpeg"
     },
     {
         "id": 2,
-        "name": "Producto",
-        "description": "producto 2",
-        "price": 200,
-        "stock": 5,
-        "image": "images/product2.jpg"
+        "name": "MAS VENDIDO",
+        "description": "Líquido BLVK Diamond Black Menthol 30ml",
+        "price": 9000,
+        "stock": 27,
+        "image": "image/imagen2.jpeg"
     },
     {
         "id": 3,
-        "name": "Producto",
-        "description": "producto 3",
-        "price": 300,
+        "name": "QUEDAN POCOS!",
+        "description": "Líquido BLVK Salt Frost Apple Berry Ice 30ml",
+        "price": 18000,
         "stock": 0,
-        "image": "images/product3.jpg"
+        "image": "image/imagen3.png"
     },
     {
         "id": 4,
-        "name": "Producto",
-        "description": "producto 4",
-        "price": 400,
+        "name": "Clasico",
+        "description": "Líquido BLVK Salt Gold Double Apple 30ml",
+        "price": 6000,
         "stock": 15,
-        "image": "images/product4.jpg"
+        "image": "image/imagen4.png"
     },
     {
         "id": 5,
-        "name": "Producto",
-        "description": "producto 5",
-        "price": 500,
+        "name": "Clasico",
+        "description": "Líquido BLVK Salt Mint Double Spearmint 30ml",
+        "price": 8000,
         "stock": 20,
-        "image": "images/product5.jpg"
+        "image": "image/imagen5.jpeg"
     },
     {
         "id": 6,
-        "name": "Producto",
-        "description": "producto 6",
-        "price": 600,
+        "name": "Clasico",
+        "description": "Líquido BLVK Nic Pink Berry Peach Ice 30ml",
+        "price": 5000,
         "stock": 8,
-        "image": "images/product6.jpg"
+        "image": "image/imagen6.png"
     }
 ]

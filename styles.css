@@ -38,21 +38,17 @@ body.dark-theme {
     margin-bottom: 20px;
 }
 
-
 .btn {
     transition: all 0.3s ease;
 }
-
 
 .swal2-popup {
     font-size: 1.2em;
 }
 
-
 #cart-container .card {
     padding: 10px;
 }
-
 
 @media (max-width: 768px) {
 
@@ -104,11 +100,9 @@ body.dark-theme {
     color: #ffffff;
 }
 
-
 .btn {
     color: #ffffff;
 }
-
 
 .dark-theme .btn-primary {
     background-color: #007bff;
@@ -139,4 +133,11 @@ input[type="number"] {
 #cart-container {
     max-height: 680px;
     overflow-y: auto;
+}
+
+.body-index {
+    background-image: url('image/imagen00.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
 }
